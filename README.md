@@ -1,7 +1,7 @@
 ### Olá! Eu sou Luan Aquino 👨‍💻☕
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/luan-aquino-7b1718327/)
+)](https://www.linkedin.com/in/luan-aquino)
 
 ![Luan Aquino GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino-maker&show_icons=true&theme=dark)
 
